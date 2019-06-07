@@ -7,7 +7,7 @@ environment: dev
 demo: false
 
 image:
-  name: spin-helm-demo
+  name: subhakarkotta/spin-helm-demo
   pullPolicy: IfNotPresent
 
 service:
